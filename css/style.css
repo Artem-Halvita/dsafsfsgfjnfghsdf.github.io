@@ -33,6 +33,12 @@ a {
 .highlight-red {
     background-color: darkred;
     color: white;
+    transition: 0.3s;
+}
+
+.highlight-red:hover {
+    background-color: red;
+    transition: 0.3s;
 }
 
 table {
